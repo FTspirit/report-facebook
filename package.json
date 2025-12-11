@@ -5,7 +5,8 @@
   "main": "facebook-login.js",
   "scripts": {
     "start": "node facebook-login.js",
-    "set-cookies": "node facebook-set-cookies.js"
+    "set-cookies": "node facebook-set-cookies.js",
+    "group": "node facebook-group.js"
   },
   "keywords": [
     "puppeteer",
