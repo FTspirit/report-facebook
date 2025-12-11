@@ -1,0 +1,20 @@
+{
+  "name": "facebook-puppeteer-login",
+  "version": "1.0.0",
+  "description": "Puppeteer script to login to Facebook and get cookies",
+  "main": "facebook-login.js",
+  "scripts": {
+    "start": "node facebook-login.js",
+    "set-cookies": "node facebook-set-cookies.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "facebook",
+    "cookies"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.6.1"
+  }
+}
